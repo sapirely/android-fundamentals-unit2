@@ -7,3 +7,5 @@ https://github.com/sapirely/DroidCafe
 https://github.com/sapirely/DialogForAlert 
 
 https://github.com/sapirely/PickerForDate
+
+https://github.com/sapirely/DroidCafeOptions
