@@ -1,6 +1,6 @@
 # android-fundamentals-unit2
 
-Links to all unit 2 projects:
+*Links to all unit 2 projects:*
 
 https://github.com/sapirely/DroidCafe 
 
